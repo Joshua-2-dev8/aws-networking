@@ -2,7 +2,7 @@
 
 ## Documentation
 
-###Objective
+### Objective
 This document outlines the steps to:
 1. Create a VPC with public and private subnets across multiple Availability Zones (AZs).
 2. Set up and test a NAT Gateway for private subnet instances.
